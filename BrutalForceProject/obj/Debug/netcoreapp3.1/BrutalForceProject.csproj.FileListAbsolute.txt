@@ -24,3 +24,16 @@ C:\Users\Hultgren\Documents\GitHub\BrutalForce\BrutalForceProject\obj\Debug\netc
 C:\Users\Hultgren\Documents\GitHub\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.dll
 C:\Users\Hultgren\Documents\GitHub\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.pdb
 C:\Users\Hultgren\Documents\GitHub\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.genruntimeconfig.cache
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.exe
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.deps.json
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.runtimeconfig.json
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.runtimeconfig.dev.json
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.dll
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\bin\Debug\netcoreapp3.1\BrutalForceProject.pdb
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.csprojAssemblyReference.cache
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.AssemblyInfoInputs.cache
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.AssemblyInfo.cs
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.csproj.CoreCompileInputs.cache
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.dll
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.pdb
+C:\Users\toffa\Documents\It och säkerhet\BrutalForce\BrutalForceProject\obj\Debug\netcoreapp3.1\BrutalForceProject.genruntimeconfig.cache

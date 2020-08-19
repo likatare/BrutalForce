@@ -9,6 +9,7 @@ namespace BrutalForceProject
 {
     class Program
     {
+        public static User user = new User();
 
         static void Main(string[] args)
         {
@@ -41,7 +42,7 @@ namespace BrutalForceProject
             }
         }
 
-        public static User user = new User();
+       
 
         private static void CreateUser()
         {
@@ -84,7 +85,7 @@ namespace BrutalForceProject
                     if (hashedValue.Equals(user.HashedPassword))
                     {
                         Console.WriteLine($"Password is {value}");
-                        break;
+                        return;
                     }
 
 
