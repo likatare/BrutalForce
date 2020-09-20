@@ -43,7 +43,9 @@ namespace BrutalForceProject
         }
 
        
-
+        /// <summary>
+        /// Creates a user and password.
+        /// </summary>
         private static void CreateUser()
         {
             Console.WriteLine("Creates a user");
@@ -61,7 +63,9 @@ namespace BrutalForceProject
             Console.Clear();
         }
 
-
+        /// <summary>
+        /// An algoritm that breaks the md5 hashed code.
+        /// </summary>
         private static void CrackTheCode()
         {
             // 'a', ..., 'z', 'aa', ..., 'zz', 'aaa', ..., 'zzz'
@@ -116,6 +120,11 @@ namespace BrutalForceProject
             }
         }
 
+        /// <summary>
+        /// Creates a md5 string
+        /// </summary>
+        /// <param name="input">input from user</param>
+        /// <returns>an encrypted password</returns>
         private static string CreateMd5(string input)
         {
             MD5 mD5 = MD5.Create();
@@ -130,14 +139,19 @@ namespace BrutalForceProject
             return sb.ToString();
         }
 
+        /// <summary>
+        /// Lets the user choose whether to create user or crack a password.
+        /// </summary>
+        /// <returns>the selected option</returns>
         private static int ShowMenu()
-        {
+        {   
             Console.WriteLine("1. Skapa användare och lösenord");
             Console.WriteLine("2. Knäck lösenordet");
             Console.Write("Input selection: ");
 
             string input = Console.ReadLine();
             int.TryParse(input, out int selectedOption);
+            Console.Clear();
             return selectedOption;
         }
     }
